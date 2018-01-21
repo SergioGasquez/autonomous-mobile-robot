@@ -4,3 +4,10 @@ Project similar to MIT duckie town where the robot has to drive through the city
 Video of the final result:
 
 [![Autonomous Mobile Robot](https://img.youtube.com/vi/fmRb8JX7574/0.jpg)](https://youtu.be/fmRb8JX7574)
+
+
+Projet realized for the subject Autonomous Mobile System taken on the University of Ljubljana during my Erasmus+ program
+
+
+## License 
+Copyright (c) 2017 Sergio Gasquez Licensed under the MIT license.
